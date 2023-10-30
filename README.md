@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on some personal projects to keep up with the ever-changing world of tech
+- 🌱 I’m currently learning data science with a focus on machine learning
